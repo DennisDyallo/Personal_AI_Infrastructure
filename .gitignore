@@ -66,3 +66,8 @@ credentials/
 .claude/pai_updates/
 .claude/pai_backups/
 .claude/.pai-sync-history
+
+# Personal files (live in pai-personal private repo)
+TELOS.md
+names contacts*
+sunthing_creations_AnR_claude.md
